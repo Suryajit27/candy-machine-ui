@@ -43,8 +43,11 @@ In the minting logic of your SPL project (as per Lesson Three), make the necessa
 
 Test the entire setup by transferring or minting your SPL token to one of your Phantom accounts. Then, use the UI you've created to mint NFTs. The users should be able to mint NFTs by paying in the SPL token you've set up.
 
-## Additional Tips
 
+
+## Additional Tips
+- For the complete implementation of the Candy Machine logic, including minting functionality and token configuration, please refer to my [Candy Machine Repository](https://github.com/Suryajit27/Module3-Candymachine.git).
+- for creating SPLtoken I referred the [The SPL token Program by MetaCrafters](https://github.com/Metacrafters/Module2-create-spl-token-js.git)
 - Make sure that the addresses and token details in the `config.json` match the addresses and tokens you've created.
 - Ensure that your UI provides clear instructions for users on how to connect their Phantom wallets and mint NFTs.
 - You can provide further customization to your UI based on your design preferences.
